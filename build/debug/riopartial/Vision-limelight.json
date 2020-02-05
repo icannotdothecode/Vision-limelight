@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Vision-limelight)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Vision-limelight",
+    "language": "java"
+  }
+]
